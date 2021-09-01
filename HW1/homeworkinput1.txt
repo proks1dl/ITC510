@@ -1,0 +1,58 @@
+Except from 
+
+Digital systems are progressively intertwined with real-world activities. As a consequence, multitudes of data are recorded
+and reported by information systems. During the last 50 years, the growth in information systems and their capabilities to
+capture, curate, store, share, transfer, analyze, and visualize data has increased exponentially. Besides these incredible
+technological advances, people and organizations depend more and more on computerized devices and information sources on the
+internet. The IDC Digital Universe Study in May 2010 illustrates the spectacular growth of data. This study estimated that
+the amount of digital information (on personal computers, digital cameras, servers, sensors) stored exceeds 1 zettabyte,
+and predicted that the digital universe would to grow to 35 zettabytes in 2010. The IDC study characterizes 35 zettabytes
+as a stack of DVDs reaching halfway to Mars. This is what we refer to as the data explosion.
+
+Most of the data stored in the digital universe is very unstructured, and organizations are facing challenges to capture,
+curate, and analyze it. One of the most challenging tasks for today’s organizations is to extract information and value
+from data stored in their information systems. This data, which is highly complex and too voluminous to be handled by a
+traditional DBMS, is called big data.
+
+Defining Data Models
+
+This article walks the reader through various structures of data. The main types of structures are structured, semi-structured,
+and unstructured data. We will also be applying modeling techniques to these types of data sets. In addition, readers will learn
+about various operations on the data model and various data model constraints. Moreover, the article gives a brief introduction
+to a unified approach to data modeling and data management. 
+
+Data Operations
+
+The second component of a data model is a set of operations that can be performed on the data. In this module, we’ll discuss
+the operations without considering the bigness aspect. Now, operations specify the methods to manipulate the data. Since different
+data models are typically associated with different structures, the operations on them will be different. But some types of
+operations are usually performed across all data models. We’ll describe a few of them here. One common operation extracts a
+part of a collection based on the condition.
+
+Subsetting
+
+Often, when we’re working with a huge dataset, we will only be involved in a small portion of it for your particular analysis.
+So, how do we sort through all the extraneous variables and observations and extract only those we need? This process is
+introduced to as subsetting.
+
+Data Constraints
+
+Besides the data model structure, data model operations, and data model constraint, is the third component of a data model.
+Constraints are the logical statements that must hold for the data. There are different types of constraints. Different data
+models have different ways to express constraints. 
+
+A Unified Approach to Big Data Modeling and Data Management
+
+As mentioned, big data can be unstructured or semi-structured, with a high level of heterogeneity. The information expressed
+in these datasets is an essential factor in the process for supporting decision making. That is one of the reasons that
+heterogeneous data must be integrated and analyzed to present a unique view of information for many kinds of applications.
+This section addresses the problem of modeling and integrating heterogeneous data that originates from multiple heterogeneous
+sources in the context of cyber-infrastructure systems and big data platforms.
+
+The growth of big data swaps the planning strategies from long-term thinking to short-term thinking, as the management of the
+city can be made more efficient. Healthcare systems are also reconstructed by the big data paradigm, as data is generated from
+sources such as electronic medical records systems, mobilized health records, personal health records, mobile healthcare
+monitors, genetic sequencing, and predictive analytics, as well as a vast array of biomedical sensors and smart devices that
+rise up to 1,000 petabytes. The motivation for this section arises from the necessity of a unified approach to data processing
+in large-scale cyber-infrastructure systems as the characteristics of nontrivial scale cyber-physical systems exhibit significant
+heterogeneity.
