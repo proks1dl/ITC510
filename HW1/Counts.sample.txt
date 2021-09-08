@@ -1,0 +1,10 @@
+the|3
+dog|1
+ate|1
+cat|1
+food|1
+then|1
+went|1
+to|1
+sleep|1
+end|1
